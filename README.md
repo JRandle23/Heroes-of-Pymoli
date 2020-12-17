@@ -70,5 +70,11 @@ Your final report should include each of the following:
 -Item Price
 -Total Purchase Value
 
-As final considerations:
+# Installation
+
+-clone repository to your computer 
+-once cloned, open repository in jupyter notebook through the terminnal 
+-run code line by line from the top, use HouseOfPymoli_starter.ipynb as a reference for expected output 
+
+
 
